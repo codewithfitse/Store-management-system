@@ -90,7 +90,8 @@ Open terminal (or CMD) in the project directory and run:
 g++ -std=c++17 store.cpp -o store
 ```
 ---
-====== Store Management System ======
+
+### ====== Store Management System ======
 1. Add new item
 2. Display all items
 3. Search item by name
@@ -107,6 +108,7 @@ Enter quantity: 25
 Enter unit price: 45.5
 Enter supplier name: SweetCo
 Item added (ID = 1).
+
 ---
 
 ### 👨‍💻 Author
