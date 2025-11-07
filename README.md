@@ -88,3 +88,31 @@ Download or copy the `store.cpp` file to your local system.
 Open terminal (or CMD) in the project directory and run:
 ```bash
 g++ -std=c++17 store.cpp -o store
+```
+---
+====== Store Management System ======
+1. Add new item
+2. Display all items
+3. Search item by name
+4. Update item (by ID)
+5. Delete item (by ID)
+6. Save inventory to file
+7. Load inventory from file (overwrite current)
+0. Exit
+Choose an option: 1
+
+Enter item name: Sugar
+Enter category: Food
+Enter quantity: 25
+Enter unit price: 45.5
+Enter supplier name: SweetCo
+Item added (ID = 1).
+---
+
+### 👨‍💻 Author
+
+Name: Fitsum Zerhun
+University: Hope University
+Department: Software Engineering
+Course: Programming II (C++)
+Project: Store Management System
